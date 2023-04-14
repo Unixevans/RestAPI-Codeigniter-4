@@ -1,0 +1,584 @@
+CRITICAL - 2023-04-12 05:28:11 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:28:11 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:28:47 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:28:47 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:28:52 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:28:52 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:29:03 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:29:03 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:29:13 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:29:13 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:30:39 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:30:39 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:33:06 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:33:06 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:33:40 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:33:40 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:37:13 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:37:13 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:37:20 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:37:20 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 05:37:52 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-04-12 05:37:52 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\api\rest-server-last\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(470): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\api\rest-server-last\system\HTTP\ResponseTrait.php(448): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\api\rest-server-last\system\Debug\Exceptions.php(150): CodeIgniter\HTTP\Response->send()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#5 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\api\rest-server-last\system\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\api\rest-server-last\public\index.php(55): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-04-12 04:11:47 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 924.
+ 1 SYSTEMPATH\BaseModel.php(924): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [])
+ 3 SYSTEMPATH\BaseModel.php(690): CodeIgniter\Model->update('1', [...])
+ 4 APPPATH\Controllers\Siswa.php(62): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->update('1')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 04:12:43 --> There is no data to update.
+in SYSTEMPATH\BaseModel.php on line 924.
+ 1 SYSTEMPATH\BaseModel.php(924): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+ 2 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [])
+ 3 SYSTEMPATH\BaseModel.php(690): CodeIgniter\Model->update('1', [...])
+ 4 APPPATH\Controllers\Siswa.php(62): CodeIgniter\BaseModel->save([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siswa->update('1')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siswa))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:48:31 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:48:57 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:50:55 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:40 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:44 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:50 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:52 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:53 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:53 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:54 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 06:51:58 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:02:20 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:02:21 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:02:39 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:04:26 --> Cache unable to write to "C:\xampp\htdocs\api\rest-server-last\writable\cache/".
+in SYSTEMPATH\Cache\Handlers\FileHandler.php on line 62.
+ 1 SYSTEMPATH\Cache\Handlers\FileHandler.php(62): CodeIgniter\Cache\Exceptions\CacheException::forUnableToWrite('C:\\xampp\\htdocs\\api\\rest-server-last\\writable\\cache/')
+ 2 SYSTEMPATH\Cache\CacheFactory.php(60): CodeIgniter\Cache\Handlers\FileHandler->__construct(Object(Config\Cache))
+ 3 SYSTEMPATH\Config\Services.php(115): CodeIgniter\Cache\CacheFactory::getHandler(Object(Config\Cache))
+ 4 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache(Object(Config\Cache), false)
+ 5 SYSTEMPATH\Config\BaseService.php(193): CodeIgniter\Config\BaseService::__callStatic('cache', [...])
+ 6 SYSTEMPATH\Config\Services.php(110): CodeIgniter\Config\BaseService::getSharedInstance('cache', null)
+ 7 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::cache()
+ 8 SYSTEMPATH\Common.php(73): CodeIgniter\Config\BaseService::__callStatic('cache', [])
+ 9 SYSTEMPATH\CodeIgniter.php(696): cache()
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->displayCache(Object(Config\Cache))
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:18:02 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:18:23 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:19:21 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:21:19 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:22:14 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:23:43 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:40:19 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:42:26 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:46:45 --> Call to undefined function App\Filters\getJWT()
+in APPPATH\Filters\FilterJwt.php on line 21.
+ 1 SYSTEMPATH\Filters\Filters.php(173): App\Filters\FilterJwt->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('siswa', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:51:35 --> Call to undefined function App\Filters\getJWT()
+in APPPATH\Filters\FilterJwt.php on line 21.
+ 1 SYSTEMPATH\Filters\Filters.php(173): App\Filters\FilterJwt->before(Object(CodeIgniter\HTTP\IncomingRequest), null)
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\Filters\Filters->run('siswa', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:52:18 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 07:58:22 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 08:00:11 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 08:02:12 --> Class "Firebase\JWT\JWT" not found
+in APPPATH\Helpers\jwt_helper.php on line 31.
+ 1 APPPATH\Controllers\Otentikasi.php(48): createJWT('evanoz@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 08:06:51 --> require_once(vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Helpers\jwt_helper.php on line 3.
+ 1 APPPATH\Helpers\jwt_helper.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(vendor/autoload.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\api\\rest-server-last\\app\\Helpers\\jwt_helper.php', 3)
+ 2 APPPATH\Helpers\jwt_helper.php(3): require_once()
+ 3 SYSTEMPATH\Common.php(665): include_once('C:\\xampp\\htdocs\\api\\rest-server-last\\app\\Helpers\\jwt_helper.php')
+ 4 APPPATH\Controllers\Otentikasi.php(44): helper([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-12 08:08:51 --> require_once(/vendor/autoload.php): Failed to open stream: No such file or directory
+in APPPATH\Helpers\jwt_helper.php on line 3.
+ 1 APPPATH\Helpers\jwt_helper.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/vendor/autoload.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\api\\rest-server-last\\app\\Helpers\\jwt_helper.php', 3)
+ 2 APPPATH\Helpers\jwt_helper.php(3): require_once()
+ 3 SYSTEMPATH\Common.php(665): include_once('C:\\xampp\\htdocs\\api\\rest-server-last\\app\\Helpers\\jwt_helper.php')
+ 4 APPPATH\Controllers\Otentikasi.php(44): helper([...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Otentikasi->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Otentikasi))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
