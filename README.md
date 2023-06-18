@@ -55,5 +55,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 ## Public API Project Works
 
-- [API 1](https://simonel.xyz/public/data)
-- [API 2](https://simonel.xyz/public/datamodul)
+- [API 1 DATA CONTROLLER](https://simonel.xyz/public/data)
+- [API 2 DATAMODUL HARDWARE](https://simonel.xyz/public/datamodul)
