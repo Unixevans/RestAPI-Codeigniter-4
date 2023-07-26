@@ -59,3 +59,10 @@ Beberapa Public API hasil pengembangan saya sendiri dengan menggunakan Codeignit
 
 - [API 1 DATA CONTROLLER MYETS](https://simonel.xyz/public/data)
 - [API 2 DATAMODUL MYETS](https://simonel.xyz/public/datamodul)
+
+## REST SERVER API POMSI Project Documentations
+
+Beberapa dokumentasi dari project REST SERVER API POMSI :
+
+- [DOCUMENTATION API DATA CONTROLLER](https://documenter.getpostman.com/view/26316668/2s93zCb1zf)
+- [DOCUMENTATION API DATAETS](https://documenter.getpostman.com/view/26316668/2s93zCb1qx)
